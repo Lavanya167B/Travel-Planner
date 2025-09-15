@@ -11,7 +11,19 @@ A Flutter application to plan your travels, explore destinations, and manage tri
 - User authentication via email/password using Firebase Auth
 
 ## Screenshots
-![Login Page](screenshots/login_page.jpg)Home page: D:\flutter_temporary\screenshots\Home page.jpg
+![Login Page](screenshots/login.jpg)
+![Home page](screenshots/home.jpg)
+![Explore Page](screenshots/explore.jpg)
+![Best time to travel Page](screenshots/best_time_to_travel.jpg)
+![Places List Page](screenshots/places_list.jpg)
+![Profile page](screenshots/reason_to_travel.jpg)
+![Travel Suggesting Page](screenshots/travel_suggesting.jpg)
+![Travell planner Page](screenshots/travell_planner.jpg)
+![Whether checking Page](screenshots/whether_checkin.jpg)
+
+
+
+
 
 
 
